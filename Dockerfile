@@ -1,6 +1,6 @@
 FROM python:3.8
 
-ENV TARGETPATH=/home/ghost/Documents/ISP/LAb1/app/
+ENV TARGETPATH=/home/ghost/Documents/ISP/Lab1/app/
 
 RUN mkdir -p "${TARGETPATH}"
 
